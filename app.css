@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: rgb(98, 22, 83);
+}
+
+h1 {
+    font-size: 15rem;
+    font-family: Montserrat;
+}
+
+.letters {
+    transition: color 1000ms;
+}
